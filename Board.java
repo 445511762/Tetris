@@ -263,7 +263,8 @@ public class Board extends JPanel {
         Color colors[] = {new Color(0, 0, 0), new Color(204, 102, 102),
                 new Color(102, 204, 102), new Color(102, 102, 204),
                 new Color(204, 204, 102), new Color(204, 102, 204),
-                new Color(102, 204, 204), new Color(218, 170, 0)
+                new Color(102, 204, 204), new Color(218, 170, 0),
+                new Color(53, 252, 3),    new Color(0, 255, 234)
         };
 
         Color color = colors[shape.ordinal()];
